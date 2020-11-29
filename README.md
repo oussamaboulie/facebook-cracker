@@ -12,7 +12,7 @@
 
 ### Download&Install
 
-### git clone https://github.com/Ha3MrX/facebook-cracker
+### git clone https://github.com/oussamaboulie/facebook-cracker.git
    
 ### cd facebook-cracker
 
